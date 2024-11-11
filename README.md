@@ -61,7 +61,7 @@ int main() {
 ```
 
 ## Macros and Utility Functions
-- **`fastio`**: Speeds up input and output.
+- **`Kazakhstan()`**: Speeds up input and output.
 - **`all(v)`**: Shorthand for `v.begin()` and `v.end()`.
 - **`pb`**: Short for `push_back`.
 - **`fi` and `se`**: Aliases for `.first` and `.second`.
